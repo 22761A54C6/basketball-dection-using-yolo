@@ -1,0 +1,7 @@
+myenv/
+_pycache_/
+*.onnx
+*.pyd
+*.dll
+*.pt
+*.weights
